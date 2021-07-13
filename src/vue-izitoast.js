@@ -1,5 +1,5 @@
 /*
-* vue-izitoast | v1.2.0
+* vue-izitoast | v1.2.5
 * https://arthurvasconcelos.com.br
 * by Arthur Vasconcelos.
 */
