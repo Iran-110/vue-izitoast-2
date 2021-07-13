@@ -1,4 +1,7 @@
-# Vue iziToast
+# Vue iziToast 2 (typescript-safe)
+
+Typescript safe version of [Vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast).
+
 
 Elegant, responsive, flexible and lightweight notification plugin implemented for Vue 2 of [iziToast](https://github.com/dolce/iziToast)
 
@@ -46,9 +49,9 @@ Elegant, responsive, flexible and lightweight notification plugin implemented fo
 ## Install
 
 ```sh
-$ npm install vue-izitoast --save
+$ npm install vue-izitoast-2 --save
 
-$ yarn add vue-izitoast
+$ yarn add vue-izitoast-2
 ```
 
 ## Configuration
